@@ -107,4 +107,10 @@
     "name": "TTT/USDC",
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
   }
+  {
+    "address": "DQUbwZKo1YRDvzc2AHCeqFYengJ1ANdVD9WdMt64hsTU",
+    "deprecated": false,
+    "name": "DOGE/SOL",
+    "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
+  }
 ]
